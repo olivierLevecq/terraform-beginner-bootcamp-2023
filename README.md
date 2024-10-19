@@ -1,6 +1,6 @@
 # Terraform Beginner Bootcamp 2023
 
-## Semantic Versioning
+## Semantic Versioning :mage:
 
 This is going to use semantic versioning
 
